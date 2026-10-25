@@ -1,4 +1,52 @@
 {
+  "schemaVersion": 1,
+  "id": "my-story",
+  "revision": 1,
+  "title": "捡手机",
+  "author": "Xinwei1231",
+  "description": "一个大学生的手机",
+  "lockScreen": {
+    "enabled": true,
+    "passcode": "031913",
+    "wallpaper": "https://github.com/Xinwei1231/FoundPhone-Studio/blob/main/public/壁纸.jpg",
+    "time": "09:01"
+  },
+  "wallpaper": "https://github.com/Xinwei1231/FoundPhone-Studio/blob/main/public/壁纸.jpg",
+  "installedApps": [
+    "settings",
+    "wechat",
+    "notes",
+    "photos",
+    "phone",
+    "forum"
+  ],
+  "apps": {
+    "wechat": {
+      "chats": []
+    },
+    "notes": {
+      "notes": []
+    },
+    "photos": {
+      "albums": []
+    },
+    "phone": {
+      "callLogs": []
+    },
+    "forum": {
+      "posts": []
+    }
+  },
+  "notifications": []
+}
+
+
+
+
+
+
+
+{
   "scriptVersion": 1,
   "id": "ui-test-phone-v2",
   "title": "捡手机",
