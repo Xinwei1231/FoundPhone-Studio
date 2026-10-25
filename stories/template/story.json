@@ -1,18 +1,4 @@
 {
-  "schemaVersion": 1,
-  "id": "my-story",
-  "revision": 1,
-  "title": "捡手机",
-  "author": "Xinwei1231",
-  "description": "一个大学生的手机",
-  "lockScreen": {
-    "enabled": true,
-    "passcode": "031913",
-   
-  },
-
-
-
   
   "scriptVersion": 1,
   "id": "ui-test-phone-v2",
