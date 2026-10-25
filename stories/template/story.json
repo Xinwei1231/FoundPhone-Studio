@@ -1,20 +1,14 @@
 {
-  
   "scriptVersion": 1,
   "id": "ui-test-phone-v2",
   "title": "捡手机",
   "description": "仅用于界面测试，不含剧情",
-  "revision": 3,
-  "lockScreen": {
-    "enabled": true,
-    "passcode": "031913",
-    "wallpaper": "https://raw.githubusercontent.com/Xinwei1231/FoundPhone-Studio/main/public/壁纸.jpg"
-  },
+  "revision": 2,
   "phone": {
     "owner": "松灿",
-    "date": "2022-05-26",
+    "date": "2022-05-27",
     "time": "09:01",
-    "battery": 74,
+    "battery": 73,
     "network": "5G",
     "wallpaper": "https://raw.githubusercontent.com/Xinwei1231/FoundPhone-Studio/main/public/壁纸.jpg"
   },
