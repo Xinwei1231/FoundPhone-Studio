@@ -10,8 +10,9 @@
     "time": "09:01",
     "battery": 73,
     "network": "5G",
-    "wallpaper": "https://github.com/Xinwei1231/FoundPhone-Studio/blob/main/public/wallpaper.jpg?raw=true"
-  },
+    "wallpaper": "https://raw.githubusercontent.com/Xinwei1231/FoundPhone-Studio/main/public/wallpaper.jpg",
+    "passcode": "031913"
+},
   "installedApps": [
     "appstore",
     {
